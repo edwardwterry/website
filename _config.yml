@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ed Terry"
-  avatar           : "profile.png"
-  bio              : "Robotics Engineer"
-  location         : "Los Angeles, CA"
+  avatar           : "bio-photo.png"
+  bio              : "Robotics Engineer, Certified Life Coach, DJ"
+  location         : "Knoxville, TN"
   employer         : L5 Automation, Inc.
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "edward.william.terry@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -105,11 +105,11 @@ author:
   linkedin         :
   orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/edterrymusic"
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "redtedtezza"
   vine             :
   weibo            :
   xing             :
